@@ -1,3 +1,133 @@
 {
-    "message":"hello"
+    "Documents": [
+    {
+      "title": "Poor dad rich grandpa",
+      "uploader": "Koyisoki",
+      "views": 764444
+    },
+    {
+      "title": "War of Art",
+      "uploader": "SukiBoy",
+      "views": 354422
+    },
+    {
+      "title": "Clean Code",
+      "uploader": "Uncle Boo",
+      "views": 33411
+    },
+    {
+      "title": "Dahl pay my debt",
+      "uploader": "Lhad Nayr",
+      "views": 5632333
+    }
+  ],"Videos": [
+    {
+      "title": "How to be software engineer @ Google",
+      "uploader": "Algoexport",
+      "job":"Software Designer",
+      "views": 45
+    },
+    {
+      "title": "Get stuck?",
+      "uploader": "Girlboy",
+      "job":"Hardware seller",
+      "views": 3544
+    },
+    {
+      "title": "Doesn't makes any sense",
+      "uploader": "Data Junk",
+      "job":"Data Scientist",
+      "views": 23211
+    },
+    {
+      "title": "FAANG job pay for my debt",
+      "uploader": "Doctor986",
+      "job":"QA",
+      "views": 5632333
+    }
+  ],"Channels": [
+    {
+      "uploader": "Koyisoki",
+      "image": "https://ei.marketwatch.com/Multimedia/2020/05/17/Photos/ZG/MW-IG666_kiyosa_20200517154435_ZG.jpg?uuid=d61418ac-9876-11ea-b25f-9c8e992d421e"
+    },
+    {
+      "uploader": "Jack Musk",
+      "image": "https://i.insider.com/5d67cb222e22af06ba59a262?width=1136&format=jpeg"
+    },
+    {
+      "uploader": "Leader Motivation",
+      "image": "https://akcdn.detik.net.id/visual/2020/04/22/947a1be3-108c-44dd-85ab-dc9779bc517b_169.jpeg?w=650"
+    },
+    {
+      "uploader": "Norseman",
+      "image": "https://media.newyorker.com/photos/5d02cb4cd0724255542c765e/master/pass/Chotiner-NorthKorea.jpg"
+    },
+    {
+      "uploader": "Etherium empire",
+      "image": "https://store-images.s-microsoft.com/image/apps.8581.13922709506581639.522e9d09-e192-44ff-96c6-faf58f5ef5dc.597e9206-4e0d-49dd-9588-d3768607ffad?mode=scale&q=90&h=1080&w=1920"
+    },
+    {
+      "uploader": "Forgotten one",
+      "image": "https://lh3.googleusercontent.com/proxy/e3nvFd-FWhqI3Z60utzrFLZpJkxBHTD-aAk8VEXFDF-sR7DK8-xWR-gEFsxAlJuZhPGPj6Zy2Y9BYtpqPjtcXV4Zdd2gXV-1TcTu-grv2-v8DqN3v0HECDGJZ1Mgl0qoNnoBEj-jkgY1YRo"
+    },
+    {
+      "uploader": "not Con artist",
+      "image": "https://cdn.theatlantic.com/thumbor/GjZZ4A50zQaqEu2wY_zTTLOxFq8=/0x194:802x645/720x405/filters:format(png)/media/old_wire/img/upload/2013/09/11/saul/original.png"
+    },
+    {
+      "uploader": "Cyberf*ck",
+      "image": "https://cdn.vox-cdn.com/thumbor/JInuAValRZk4xPjfw3ZU1dVWikA=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68728168/Cyberpunk2077_Ladies_And_Gentleman_The_US_Cracks_RGB.0.jpg"
+    },
+    {
+      "uploader": "Top tier",
+      "image": "https://i.ytimg.com/vi/SJYsiP4ltlA/maxresdefault.jpg"
+    },
+    {
+      "uploader": "lofi doses",
+      "image": "https://cdn.vox-cdn.com/thumbor/aH7QXdGSQd2Brw7nlNQl_8EBuos=/0x0:1000x563/1200x800/filters:focal(420x202:580x362)/cdn.vox-cdn.com/uploads/chorus_image/image/58622885/_lowfi_anime.0.jpg"
+    }
+  ],"Activity": [
+    {
+      "uploader": "Koyisoki",
+      "verb": "Commented",
+      "caption": "Fintech will replace traditional banker",
+      "time": "2 seconds ago",
+      "logo":"mode_comment"
+    },
+    {
+      "uploader": "Rudi",
+      "verb": "Shared a document",
+      "caption": "This is legal wikileak document",
+      "time": "2 years ago",
+      "logo":"description"
+    },
+    {
+      "uploader": "Balmung",
+      "verb": "Liked a video",
+      "caption": "Elon Musk 20 years ago footage",
+      "time": "2 months ago",
+      "logo":"favorite"
+    },
+    {
+      "uploader": "Emma",
+      "verb": "New Badge",
+      "caption": "International Troll Slayer",
+      "time": "2 minutes ago",
+      "logo":"lock_open"
+    },
+    {
+      "uploader": "Tommy",
+      "verb": "Commented",
+      "caption": "They back the wrong horses eh, f*ck the stock market",
+      "time": "5 hours ago",
+      "logo":"mode_comment"
+    },
+    {
+      "uploader": "Kimber",
+      "verb": "Commented",
+      "caption": "I'm Billy Kimber",
+      "time": "7 seconds ago",
+      "logo":"mode_comment"
+    }
+  ]
 }
