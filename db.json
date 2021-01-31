@@ -2,18 +2,28 @@
   "Featured": [
     {
       "Documents":[{
+        "headerTitle":"Documents",
+        "headerInfo":"Browse all documents",
       "title": "Rucksack of Fortune",
       "image": "https://4.imimg.com/data4/UV/OB/MY-10904687/money-bags-500x500.jpg",
       "uploader": "Pomeranian",
       "views": 354422
+      
       }],
       "Videos":[{
+        "headerTitle":"Videos",
+        "headerInfo":"Browse all videos",
        "title": "There there",
       "image": "https://pbs.twimg.com/media/D_rOYb_XYAI9eeK.jpg",
       "photo":"https://images.genius.com/08d699166bdfac686052a191e836eaf7.1000x1000x1.jpg",
       "uploader": "Radiohead",
       "job":"Musician",
       "views": 643222
+      }],
+      "People":[{
+        "headerTitle":"People",
+        "headerInfo":"View all"
+       
       }]
     }
   ],
