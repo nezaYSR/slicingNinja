@@ -2,56 +2,66 @@
     "Documents": [
     {
       "title": "Poor dad rich grandpa",
+      "image": "https://www.drwealth.com/wp-content/uploads/Copy-of-Copy-of-KW-Post-Design-3.png",
       "uploader": "Koyisoki",
       "views": 764444
     },
     {
       "title": "War of Art",
+      "image": "https://img.jakpost.net/c/2020/01/07/2020_01_07_84421_1578366020._large.jpg",
       "uploader": "SukiBoy",
       "views": 354422
     },
     {
       "title": "Clean Code",
+      "image": "https://res.cloudinary.com/wlion/f_auto,q_auto,c_fill,w_800/wlion/2017/04/CleanCode.jpg",
       "uploader": "Uncle Boo",
       "views": 33411
     },
     {
       "title": "Dahl pay my debt",
+      "image": "https://cdn.thenewstack.io/media/2018/06/665a2e65-ryan-dahl.jpg",
       "uploader": "Lhad Nayr",
       "views": 5632333
     },
     {
       "title": "Says",
+      "image": "https://says.com/assets/says-logo-light-blue-large-1446b8864e68d1df9c140b185def00464a332bdd187644a2689d3b20f52c8c5a.png",
       "uploader": "Nils Frahm",
       "views": 74342
     }
   ],"Videos": [
     {
       "title": "How to be software engineer @ Google",
+      "image": "https://tryengineering.org/wp-content/uploads/bigstock-Software-Developer-Freelancer-321565021-scaled.jpg",
       "uploader": "Algoexport",
       "job":"Software Designer",
       "views": 45
     },
     {
       "title": "Get stuck?",
+      "image": "https://saintlouisfamilycounseling.com/wp-content/uploads/2018/08/pooh-bear-stuck-1030x579.png",
       "uploader": "Girlboy",
       "job":"Hardware seller",
       "views": 3544
     },
     {
       "title": "Doesn't makes any sense",
+      "image": "http://www.msrblog.com/wp-content1/uploads/2017/08/irrational-number-2.jpg",
       "uploader": "Data Junk",
       "job":"Data Scientist",
       "views": 23211
     },
     {
       "title": "FAANG job pay for my debt",
+      "image": "https://s.wsj.net/public/resources/images/BP-AA460_FANG_G_20170602103740.jpg",
       "uploader": "Doctor986",
       "job":"QA",
       "views": 5632333
     },
     {
       "title": "Baby name Palindrome",
+      "image": "https://pyxis.nymag.com/v1/imgs/020/c73/400de647d6dc1cd2cd941f1f3d62083018-11-gavin.2x.h473.w710.jpg",
       "uploader": "Rook Bolboa",
       "job":"QA",
       "views": 453324
@@ -100,6 +110,7 @@
   ],"Activity": [
     {
       "uploader": "Koyisoki",
+      "image": "https://www.bbva.com/wp-content/uploads/2019/12/fintech2-1920x1180.jpg",
       "verb": "Commented",
       "caption": "Fintech will replace traditional banker",
       "time": "2 seconds ago",
@@ -107,6 +118,7 @@
     },
     {
       "uploader": "Rudi",
+      "image": "https://cdn1-production-images-kly.akamaized.net/t5PnToAvZli6WdsxEW4rNU79azw=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/122073/original/101130awikileaks.jpg",
       "verb": "Shared a document",
       "caption": "This is legal wikileak document",
       "time": "2 years ago",
@@ -114,20 +126,23 @@
     },
     {
       "uploader": "Balmung",
+      "image": "https://dynaimage.cdn.cnn.com/cnn/w_480/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200513140613-06-a-elon-musk-unfurled.jpg",
       "verb": "Liked a video",
       "caption": "Elon Musk 20 years ago footage",
       "time": "2 months ago",
       "logo":"favorite"
     },
     {
-      "uploader": "Emma",
+      "uploader": "Rowd",
+      "image": "https://frenchmoments.eu/wp-content/uploads/2012/11/xCoronation-of-Charles-VII-in-Reims-in-the-presence-of-Joan-of-Arc.-Painting-by-by-E.-Lenepveu.jpg.pagespeed.ic.DmEL28M7c_.jpg",
       "verb": "New Badge",
-      "caption": "International Troll Slayer",
+      "caption": "International King of Troll Slayer",
       "time": "2 minutes ago",
       "logo":"lock_open"
     },
     {
       "uploader": "Tommy",
+      "image": "https://www.irishtimes.com/polopoly_fs/1.4026833.1569190266!/image/image.jpg_gen/derivatives/box_620_330/image.jpg",
       "verb": "Commented",
       "caption": "They back the wrong horses eh, f*ck the stock market",
       "time": "5 hours ago",
@@ -135,6 +150,7 @@
     },
     {
       "uploader": "Kimber",
+      "image": "https://i.ytimg.com/vi/gN4Nq2azIOU/maxresdefault.jpg",
       "verb": "Commented",
       "caption": "I'm Billy Kimber",
       "time": "7 seconds ago",
