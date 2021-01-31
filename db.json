@@ -1,44 +1,29 @@
 {
-  "Featured": [
+  "FeaturedVid":
     {
-      "Documents":{
-        "headerTitle":"Documents",
-        "headerInfo":"Browse all documents",
-      "title": "Rucksack of Fortune",
-      "image": "https://4.imimg.com/data4/UV/OB/MY-10904687/money-bags-500x500.jpg",
-      "uploader": "Pomeranian",
-      "views": 354422
-      },
-      "Videos":{
-        "headerTitle":"Videos",
-        "headerInfo":"Browse all videos",
-       "title": "There there",
-      "image": "https://pbs.twimg.com/media/D_rOYb_XYAI9eeK.jpg",
-      "photo":"https://images.genius.com/08d699166bdfac686052a191e836eaf7.1000x1000x1.jpg",
-      "uploader": "Radiohead",
-      "job":"Musician",
-      "views": 643222
-      },
-      "People":{
-        "headerTitle":"People",
-        "headerInfo":"View all",
-        "title": "Prophecy",
-      "image": "https://winespeed.com/wp-content/themes/winespeed/dist/images/true-false.png",
-      "photo":"https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/haifoto/original/82643_baby-groot.jpg",
-      "uploader": "I'm Groot",
-      "job":"Immortal",
-      "views": 643222
-      },
-      "Activity":{
-        "headerTitle":"Activity",
-        "headerInfo":"View timeline/Filter activities"
-      },
-      "Channels":{
-        "headerTitle":"Channels",
-        "headerInfo":"Browse all channels"
-      }
-    }
-  ],
+      "title": "Blockchain for dummy",
+      "image": "https://lintasdaerah.com/wp-content/uploads/2018/09/3-poin-utama-crypto-mata-uang-komoditas-token.jpg",
+      "photo":"https://image.freepik.com/free-photo/blond-boy-with-glasses-sits-his-nose-buried-laptop-internet-preschooler_134398-4542.jpg",
+      "uploader": "Rood van",
+      "job":"Jack of all trades",
+      "views": 2223324
+  },
+  "FeaturedPep":
+    {
+      "title": "Blockchain for dummy",
+      "image": "https://lintasdaerah.com/wp-content/uploads/2018/09/3-poin-utama-crypto-mata-uang-komoditas-token.jpg",
+      "photo":"https://image.freepik.com/free-photo/blond-boy-with-glasses-sits-his-nose-buried-laptop-internet-preschooler_134398-4542.jpg",
+      "uploader": "Rood van",
+      "job":"Jack of all trades",
+      "views": 2223324
+  },
+  "FeaturedDoc":
+    {
+      "title": "Ruby Julia learning",
+      "image": "https://res.cloudinary.com/wlion/f_auto,q_auto,c_fill,w_800/wlion/2017/04/CleanCode.jpg",
+      "uploader": "Missy Elliot",
+      "views": 112415
+  },
     "Documents": [
     {
       "title": "War of Art",
@@ -96,14 +81,6 @@
       "uploader": "Rook Bolboa",
       "job":"QA",
       "views": 453324
-    },
-    {
-      "title": "Blockchain for dummy",
-      "image": "https://lintasdaerah.com/wp-content/uploads/2018/09/3-poin-utama-crypto-mata-uang-komoditas-token.jpg",
-      "photo":"https://image.freepik.com/free-photo/blond-boy-with-glasses-sits-his-nose-buried-laptop-internet-preschooler_134398-4542.jpg",
-      "uploader": "Rood van",
-      "job":"Jack of all trades",
-      "views": 2223324
     }
   ],"Channels": [
     {
