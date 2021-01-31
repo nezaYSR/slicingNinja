@@ -1,7 +1,7 @@
 {
   "Featured": [
     {
-      "Documents":[{
+      "Documents":{
         "headerTitle":"Documents",
         "headerInfo":"Browse all documents",
       "title": "Rucksack of Fortune",
@@ -9,8 +9,8 @@
       "uploader": "Pomeranian",
       "views": 354422
       
-      }],
-      "Videos":[{
+      },
+      "Videos":{
         "headerTitle":"Videos",
         "headerInfo":"Browse all videos",
        "title": "There there",
@@ -19,8 +19,8 @@
       "uploader": "Radiohead",
       "job":"Musician",
       "views": 643222
-      }],
-      "People":[{
+      },
+      "People":{
         "headerTitle":"People",
         "headerInfo":"View all",
         "title": "Prophecy",
@@ -29,15 +29,15 @@
       "uploader": "I'm Groot",
       "job":"Immortal",
       "views": 643222
-      }],
-      "Activity":[{
+      },
+      "Activity":{
         "headerTitle":"Activity",
         "headerInfo":"View timeline/Filter activities"
-      }],
-      "Channels":[{
+      },
+      "Channels":{
         "headerTitle":"Channels",
         "headerInfo":"Browse all channels"
-      }]
+      }
     }
   ],
     "Documents": [
