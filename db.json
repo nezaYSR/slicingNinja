@@ -1,23 +1,15 @@
 {
-  "FeaturedVid":
-    [{
+  "Featured":
+    [
+      {
       "title": "Blockchain for dummy",
       "image": "https://lintasdaerah.com/wp-content/uploads/2018/09/3-poin-utama-crypto-mata-uang-komoditas-token.jpg",
       "photo":"https://image.freepik.com/free-photo/blond-boy-with-glasses-sits-his-nose-buried-laptop-internet-preschooler_134398-4542.jpg",
       "uploader": "Rood van",
       "job":"Jack of all trades",
       "views": 2223324
-  }],
-  "FeaturedPep":
-    [{
-      "image": "https://lintasdaerah.com/wp-content/uploads/2018/09/3-poin-utama-crypto-mata-uang-komoditas-token.jpg",
-      "photo":"https://image.freepik.com/free-photo/blond-boy-with-glasses-sits-his-nose-buried-laptop-internet-preschooler_134398-4542.jpg",
-      "uploader": "Rood van",
-      "job":"Jack of all trades",
-      "views": 2223324
-  }],
-  "FeaturedDoc":
-    [{
+  },
+  {
       "title": "Ruby Julia learning",
       "image": "https://res.cloudinary.com/wlion/f_auto,q_auto,c_fill,w_800/wlion/2017/04/CleanCode.jpg",
       "uploader": "Missy Elliot",
