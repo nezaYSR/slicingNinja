@@ -1,4 +1,22 @@
 {
+  "Featured": [
+    {
+      "Documents":[{
+      "title": "Rucksack of Fortune",
+      "image": "https://4.imimg.com/data4/UV/OB/MY-10904687/money-bags-500x500.jpg",
+      "uploader": "Pomeranian",
+      "views": 354422
+      }],
+      "Videos":[{
+       "title": "There there",
+      "image": "https://pbs.twimg.com/media/D_rOYb_XYAI9eeK.jpg",
+      "photo":"https://images.genius.com/08d699166bdfac686052a191e836eaf7.1000x1000x1.jpg",
+      "uploader": "Radiohead",
+      "job":"Musician",
+      "views": 643222
+      }]
+    }
+  ],
     "Documents": [
     {
       "title": "War of Art",
@@ -24,10 +42,11 @@
       "uploader": "Nils Frahm",
       "views": 74342
     }
-  ],"Videos": [
+  ],"Videos":[
     {
       "title": "How to be software engineer @ Google",
       "image": "https://tryengineering.org/wp-content/uploads/bigstock-Software-Developer-Freelancer-321565021-scaled.jpg",
+      "photo":"https://2.bp.blogspot.com/-Kk7woxfDqdQ/XGVk2AF36hI/AAAAAAACkqY/f8gnLoqiyysBuLcN_yV0Xf6S66Ea3wEsQCLcBGAs/s1600/thispersondoesnotexist-1.jpg",
       "uploader": "Algoexport",
       "job":"Software Designer",
       "views": 45
@@ -35,6 +54,7 @@
     {
       "title": "Get stuck?",
       "image": "https://saintlouisfamilycounseling.com/wp-content/uploads/2018/08/pooh-bear-stuck-1030x579.png",
+      "photo":"https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2019/02/5-create-fake-people-in-2-seconds-on-this-insane-site.jpg",
       "uploader": "Girlboy",
       "job":"Hardware seller",
       "views": 3544
@@ -42,6 +62,7 @@
     {
       "title": "Doesn't makes any sense",
       "image": "http://www.msrblog.com/wp-content1/uploads/2017/08/irrational-number-2.jpg",
+      "photo":"https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/wp-cms/uploads/2019/02/10-create-fake-people-in-2-seconds-on-this-insane-site.jpg",
       "uploader": "Data Junk",
       "job":"Data Scientist",
       "views": 23211
@@ -49,6 +70,7 @@
     {
       "title": "Baby name Palindrome",
       "image": "https://pyxis.nymag.com/v1/imgs/020/c73/400de647d6dc1cd2cd941f1f3d62083018-11-gavin.2x.h473.w710.jpg",
+      "photo":"https://static.boredpanda.com/blog/wp-content/uploads/2018/12/ai-image-generation-fake-faces-people-nvidia-5c18b20b472c2__700.jpg",
       "uploader": "Rook Bolboa",
       "job":"QA",
       "views": 453324
