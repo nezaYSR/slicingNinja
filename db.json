@@ -1,6 +1,12 @@
 {
     "Documents": [
     {
+      "title": "Poor dad rich grandpa",
+      "image": "https://www.drwealth.com/wp-content/uploads/Copy-of-Copy-of-KW-Post-Design-3.png",
+      "uploader": "Koyisoki",
+      "views": 764444
+    },
+    {
       "title": "War of Art",
       "image": "https://img.jakpost.net/c/2020/01/07/2020_01_07_84421_1578366020._large.jpg",
       "uploader": "SukiBoy",
@@ -45,6 +51,13 @@
       "uploader": "Data Junk",
       "job":"Data Scientist",
       "views": 23211
+    },
+    {
+      "title": "FAANG job pay for my debt",
+      "image": "https://s.wsj.net/public/resources/images/BP-AA460_FANG_G_20170602103740.jpg",
+      "uploader": "Doctor986",
+      "job":"QA",
+      "views": 5632333
     },
     {
       "title": "Baby name Palindrome",
