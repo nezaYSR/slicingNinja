@@ -22,7 +22,13 @@
       }],
       "People":[{
         "headerTitle":"People",
-        "headerInfo":"View all"
+        "headerInfo":"View all",
+        "title": "Prophecy",
+      "image": "https://winespeed.com/wp-content/themes/winespeed/dist/images/true-false.png",
+      "photo":"https://asset-a.grid.id/crop/0x0:0x0/750x500/photo/haifoto/original/82643_baby-groot.jpg",
+      "uploader": "I'm Groot",
+      "job":"Immortal",
+      "views": 643222
        
       }]
     }
