@@ -29,7 +29,14 @@
       "uploader": "I'm Groot",
       "job":"Immortal",
       "views": 643222
-       
+      }],
+      "Activity":[{
+        "headerTitle":"Activity",
+        "headerInfo":"View timeline/Filter activities"
+      }],
+      "Channels":[{
+        "headerTitle":"Channels",
+        "headerInfo":"Browse all channels"
       }]
     }
   ],
